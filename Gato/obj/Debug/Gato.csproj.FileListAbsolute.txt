@@ -1,0 +1,9 @@
+D:\VisualStudio\Gato\bin\Debug\Gato.exe.config
+D:\VisualStudio\Gato\bin\Debug\Gato.exe
+D:\VisualStudio\Gato\bin\Debug\Gato.pdb
+D:\VisualStudio\Gato\obj\Debug\Gato.csprojAssemblyReference.cache
+D:\VisualStudio\Gato\obj\Debug\Gato.Properties.Resources.resources
+D:\VisualStudio\Gato\obj\Debug\Gato.csproj.GenerateResource.cache
+D:\VisualStudio\Gato\obj\Debug\Gato.exe
+D:\VisualStudio\Gato\obj\Debug\Gato.pdb
+D:\VisualStudio\Gato\obj\Debug\Gato.Form1.resources
